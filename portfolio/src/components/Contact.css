@@ -1,0 +1,72 @@
+
+#Con{
+    color: aqua;
+    text-align: center;
+}
+.contact{
+    display: flex;
+    font-size: 15px;
+    height: 60vh;
+}
+#fname , #femail{
+    height: 30px;
+    width: 223.5px;
+    margin: 0.5%;
+    font-size: larger;
+    border-color: aqua;
+    border-width: 5px;
+}
+#fsubject , #fmessage{
+    height: 30px;
+    width: 470px;
+    margin: 0.5%;
+    font-size: larger;
+    border-color: aqua;
+    border-width: 5px;
+}
+#fmessage{
+    height: 70px;
+}
+#fsend{
+    padding: 1.5% 10%;
+    color: black;
+    background-color:aqua;
+    margin-left:0.5%;
+    margin-top: 1%;
+    font-size: larger;
+    font-weight: 500;
+}
+#fsend:hover{
+    color: aqua;
+    background-color:black;
+    font-weight: 700;
+    border-color: white;
+}
+.column-left{
+    width: 45%;
+    font-size: 15px;
+    padding:20px 30px 20px 70px;
+}
+.column-right{
+    width: 45%;
+    margin-left: 50px;
+}
+.row{
+    display: flex;
+    margin-left: 50px;
+}
+
+.cinfo{
+    padding: 1%;
+}
+.ctext{
+    color: rgb(124, 122, 122);
+    margin-left: 50px;
+}
+.ctext h1{
+    color: white;
+}
+.subtitle{
+    color: rgb(124, 122, 122);
+    font-size: medium;
+}

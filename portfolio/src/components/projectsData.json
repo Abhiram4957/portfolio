@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "title": "HealBridge",
+      "description": "E-commerce website with features product listing, cart management, user authentication",
+      "techStack": ["REACT", "Redux", "Javascript"],
+      "github": "https://github.com/Abhiram4957",
+      "liveDemo": "https://papaswillow.amigosmartech.com/",
+      "image": "./images/papa.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "BeatBox",
+      "description": "A web-based application for managing book inventory, users, and loans.",
+      "techStack": ["HTML", "CSS", "Javascript","Bootstrap"],
+      "github": "https://github.com/Abhiram4957/BeatBox",
+      "liveDemo": "452", 
+      "image": "./images/bb.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "HealBridge",
+      "description": "A web-based application for managing book inventory, users, and loans.",
+      "techStack": ["HTML", "CSS", "Javascript","Bootstrap"],
+      "github": "https://github.com/Abhiram4957/HealBridge",
+      "liveDemo": "d",
+      "image": "./images/heal.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Library Management System",
+      "description": "A web-based application for managing book inventory, users, and loans.",
+      "techStack": ["React", "Node.js", "MongoDB", "Express"],
+      "github": "https://github.com/yourusername/library-management-system",
+      "liveDemo": "https://library-system-demo.com",
+      "image": "https://via.placeholder.com/300x200?text=Library+Management"
+    },
+    {
+      "id": 5,
+      "title": "Library Management System",
+      "description": "A web-based application for managing book inventory, users, and loans.",
+      "techStack": ["React", "Node.js", "MongoDB", "Express"],
+      "github": "https://github.com/yourusername/library-management-system",
+      "liveDemo": "https://library-system-demo.com",
+      "image": "https://via.placeholder.com/300x200?text=Library+Management"
+    },
+    {
+      "id": 6,
+      "title": "Library Management System",
+      "description": "A web-based application for managing book inventory, users, and loans.",
+      "techStack": ["React", "Node.js", "MongoDB", "Express"],
+      "github": "https://github.com/yourusername/library-management-system",
+      "liveDemo": "https://library-system-demo.com",
+      "image": "https://via.placeholder.com/300x200?text=Library+Management"
+    }
+  ]
+  

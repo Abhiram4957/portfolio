@@ -1,0 +1,36 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 5%;
+    margin-left: 5%;
+    position: fixed;
+    top: 0;
+    width: 80%;
+    background-color: #000; 
+    box-shadow: 2px 2px 8px rgba(0, 255, 255, 0.5);
+    z-index: 1;
+}
+
+.name {
+    font-size: x-large;
+    font-family: 'Merienda', cursive;
+    padding: 0px 20px;
+}
+
+.nav {
+    color: floralwhite;
+    font-size: 23px;
+    display: flex;
+}
+
+.nav-item {
+    margin: 0 20px; /* Adjust spacing */
+    text-decoration: none;
+    color: white;
+}
+
+.nav-item:hover {
+    transform: scale(1.1);
+    color: aqua;
+}
